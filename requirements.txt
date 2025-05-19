@@ -1,0 +1,9 @@
+
+python-dotenv
+textblob
+spacy
+pandas
+matplotlib
+streamlit
+google-api-python-client
+scikit-learn
